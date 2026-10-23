@@ -1,0 +1,7 @@
+{
+  "name": "Tadao - Architecture & Interior Design",
+  "description": "Complete website presentation and interactive showcase for modern architecture, interior design, and furniture studios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
